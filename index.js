@@ -20,7 +20,7 @@ var lowercase = 'hello!'
   return "I can\'t hear you!"
  }else{
    var uppercase = "HELLO!"
-   if (lowercase === lowercase.toUpperCase()){
+   if (uppercase.toUpperCase === uppercase){
      return "YES INDEED!"
    }
  }
