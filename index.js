@@ -20,7 +20,7 @@ function sayHiToGrandma(string) {
   return "I can\'t hear you!"
 }
   
- function sayHiTOGrandma()
+ function sayHiToGrandma
 
 
 
