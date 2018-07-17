@@ -14,7 +14,10 @@ function logWhisper(string) {
   console.log('hello'.toLowerCase())
 }
 
-funtion sayHiToGrandma(string){
+function sayHiToGrandma(string){
+  
+  
+  
   
 }
 
